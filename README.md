@@ -1,7 +1,7 @@
 # 书香茶韵润人生 ·<sub>一盏茶韵，一段文字，一缕书香，一种人生!<sub>
   
 <p align='center'>
-<img src='https://static001.geekbang.org/resource/image/89/8f/890bb2e1f9e0f7a027446c35a1cb9d8f.jpg'>
+<img src='https://upload-images.jianshu.io/upload_images/4164292-e505c214ec59398c.JPG?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240'>
 </p>
 
 &emsp;&emsp;此博客主要用来记录一些自己平时的学习总结和工作方面的思考感悟，以方便今后回顾查阅。同时也勉励自己日益精进，努力前行。此外，由于笔者水平有限，如果文中有错误之处，还望各位读者悉心指正，可将您的宝贵意见和建议发送至baohenglin@gmail.com。
