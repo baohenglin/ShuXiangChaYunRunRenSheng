@@ -4,7 +4,7 @@
 <img src='https://upload-images.jianshu.io/upload_images/4164292-5e6f3e5371bb909a.JPG?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240'>
 </p>
 
-&emsp;&emsp;**品茶清心，读书明智。一本好书，半盏清茶，静观世间繁华，笑看人生百态。书香茶韵，淡泊宁静，惬意非常。**
+**一本好书，半盏清茶，静观世间繁华，笑看人生百态。品茶清心，读书明智。书香茶韵，淡泊宁静，惬意非常。**
 
 ## *📖书香茶韵* <sub>阅读，一种优雅的生活方式<sub>
 |主题|文章|备注|
