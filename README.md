@@ -19,7 +19,7 @@
 |C++|[《C++ Primer Plus》Stephen Prata]()<br>[《Effective C++》Scott Meyers]()<br>[《More Effective C++》Scott Meyers]()<br>[《深度探索C++对象模型》]()<br>|
 |HTML/CSS/JS|[《HTML5权威指南》]()<br>[《HTML5与CSS权威指南》]()<br>[《HTML5 Canvas核心技术》]()<br>[《JavaScript权威指南》David Flanagan]()<br>[《JavaScript高级程序设计》Nicholas C.Zakas]()<br>[《高性能JavaScript编程》]()<br>[《JavaScript忍者秘籍》John Resig]()<br>[《JavaScript语言精粹》Douglas Crockford]()<br>[《Effective JavaScript：编写高质量JavaScript代码的68个有效方法》]()<br>|
 |Java|[《Head First Java》]()<br>[《Java核心技术(卷I)》Cay S.Horstmann]()<br>[《Spring Boot实践》Craig Walls]()<br>[《Spring实战》Craig Walls]()<br>[《深入理解Java虚拟机：JVM高级特性与最佳实践》周志明]()<br>[《Effective Java》]()<br>[《Java编程思想》]()<br>[《Java并发编程实战》Brian Goetz]()<br>[《Java性能权威指南》Scott Oaks]()<br>[《精通Sprin 4.X》]()<br>|
-|Go语言|[《Go by Example》](https://gobyexample.com)<br>《[Go 101](https://go101.org/article/101.html)》<br>《[The Go Programming Language](https://book.douban.com/subject/26337545/)》<br>《[Effective Go](https://golang.org/doc/effective_go.html)》<br>|
+|Go语言|[《Go by Example》](https://gobyexample.com)<br>[《Go 101》](https://go101.org/article/101.html)》<br>[《The Go Programming Language》](https://book.douban.com/subject/26337545/)》<br>[《Effective Go》](https://golang.org/doc/effective_go.html)》<br>|
 |数据结构与算法|[《数据结构与算法分析——C语言描述》]()<br>[《算法图解》]()<br>[《算法导论》]()<br>[《算法》Robert Sedgewick]()<br>|
 |计算机网络|[《计算机网络——自顶向下方法》James F.Kurose]()<br>[《计算机网络》Andrew S. Tanenbaum]()<br>[《图解TCP·IP》]()<br>[《TCP·IP网络编程》]()<br>[《HTTP权威指南》]()<br>[《TCP·IP详解卷1：协议》]()<br>|
 |操作系统|[《现代操作系统》]()<br>[《深入理解计算机系统》]()<br>[《UNIX编程艺术》]()<br>[《UNIX环境高级编程》]()<br>[《UNIX网络编程卷1：套接字联网API》]()<br>[《UNIX网络编程第2卷：进程间通信》]()<br>|
