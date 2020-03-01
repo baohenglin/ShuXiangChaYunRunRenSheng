@@ -1,4 +1,4 @@
-# 书香茶韵润人生 ·<sub>一段文字，一盏茶韵，一缕书香，一种人生!<sub>
+# 书香茶韵润人生 ·<sub>一段文字，半盏茶韵，缕缕书香，悠然人生!<sub>
   
 <p align='center'>
 <img src='https://upload-images.jianshu.io/upload_images/4164292-5e6f3e5371bb909a.JPG?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240'>
